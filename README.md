@@ -12,5 +12,5 @@ Inside the CSS I made a lot of changes. I changed and simplified line 91. It had
 
 
 
-all of this was inside the other folder. I guess i didn't have it added here? 
+all of this was inside the other folder. I guess i didn't have it added here? "Homework Review"
 and for the CSS file comments i added them here so it wouldnt clog up the css
